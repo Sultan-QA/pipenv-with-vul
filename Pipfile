@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-djangorestframework="==3.11.1"
+djangorestframework="==3.11.2"
 urllib3="==1.19"
 
 [dev-packages]
